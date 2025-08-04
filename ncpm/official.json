@@ -1,0 +1,10 @@
+{
+  "packages": [
+    {
+      "package_name": "editor",
+      "creator": "official",
+      "install_url": "https://example.com/packages/editor.zip",
+      "version": "1.0.0"
+    }
+  ]
+}
