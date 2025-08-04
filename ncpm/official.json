@@ -3,7 +3,8 @@
     {
       "package_name": "editor",
       "creator": "official",
-      "install_url": "https://example.com/packages/editor.zip",
+      "install_url": "https://github.com/okibcn/nano-for-windows/releases/download/v7.2-22.1/nano-for-windows_win64_v7.2-22.1.zip",
+      "unzip": "true",
       "version": "1.0.0"
     }
   ]
